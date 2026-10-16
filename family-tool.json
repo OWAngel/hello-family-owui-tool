@@ -1,0 +1,9 @@
+{
+  "id": "hello-echo",
+  "name": "Hello Echo",
+  "description": "Benign echo OpenAPI tool for Family AI GLM self-install",
+  "entry": "server.py",
+  "openapi": "openapi.json",
+  "requirements": "requirements.txt",
+  "bind": "127.0.0.1"
+}
